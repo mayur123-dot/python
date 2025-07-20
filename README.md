@@ -1,4 +1,4 @@
-# Basic Python
+# Basic Concept of Python
 # Task 1
  By using the python performing the basic mathematical operations 
  1) Taking input from the user : 
